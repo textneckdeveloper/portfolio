@@ -128,7 +128,9 @@
     a {
       text-decoration: none;
       margin-right: .31rem;
-
+      &:focus {
+        outline: none;
+      }
     }
     svg {
       color: #888a90;
