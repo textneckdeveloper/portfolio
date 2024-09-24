@@ -122,6 +122,9 @@
     opacity: 0.8;
     margin-top: .7rem;
     padding: .3rem .95rem;
+    a:focus {
+      outline: none;
+    }
   }
 
   &_social-icons {
