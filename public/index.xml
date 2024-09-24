@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>textneckdeveloper portfolio</title>
+    <link>/</link>
+    <description>Recent content on textneckdeveloper portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/posts/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first/</guid>
+      
+      <description>&lt;h1 id=&#34;heading&#34;&gt;&amp;laquo;&amp;laquo;&amp;laquo;&amp;lt; HEAD
++++
+title = &amp;lsquo;First&amp;rsquo;
+date = 2024-09-24T15:57:44+09:00
+draft = true
++++&lt;/h1&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;isstarred-false&#34;&gt;title:
+date: 2024-09-24T15:57:44+09:00
+draft: true
+description:
+isStarred: false&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;970f0b159c9ca4f071077ea4c80777bbce69cfdc&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
