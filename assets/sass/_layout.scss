@@ -32,6 +32,21 @@
     max-width: 550px;
     line-height: 1.688;
   }
+
+  a {
+    outline: none;
+  }
+
+  svg {
+    fill: #888a90;
+    width:70px;
+    height:35px;
+    margin-top:15px;
+    outline:none;
+    &:hover {
+      fill: rgb(221, 221, 221);
+    }
+  }
 }
 
 // Content
