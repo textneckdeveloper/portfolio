@@ -4,20 +4,31 @@ description: 'Hugo, the world''s fastest framework for building websites'
 author: Hugo Authors
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+반갑습니다.  
+저는 신입 백엔드 개발자 전현민입니다.
 
-Hugo makes use of a variety of open source projects including:
+웹 애플리케이션의 심장부를 구성하는 시스템을 설계하고 개발하는 데 큰 매력을 느낍니다.  
+사용자에게 안정적이고 빠른 경험을 제공하기 위해 최선을 다하고 있습니다.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+국비 프로젝트를 통해 웹 사이트를 개발하면서  
+게시글 작성, 수정, 삭제, 조회 기능을 구현했습니다.  
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+이 과정에서 RESTful API를 설계하고 구현하며,  
+JPA를 활용하여 데이터베이스와의 연동을 원활하게 처리했습니다.  
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+이러한 경험은 기본적인 CRUD(Create, Read, Update, Delete)  
+기능을 실현하는 데 필요한 기술적 이해를 높이는 데 큰 도움이 되었습니다.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Skills :
+* Backend : Java, Spring Boot, JPA
+* Frontend : HTML, JavaScript, CSS, React
+* Server : Apache Tomcat
+* DataBase : Oracle, MySQL, PostgreSQL
+* Tools : Eclipse, STS, Visual Studio Code, HeidiSQL, Postman, Github, Git, SourceTree
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Contact Me :
+* Phone : 010-9061-8784
+* Email : [textneckdeveloper@gmail.com](mailto:textneckdeveloper@gmail.com)
+* Github : https://github.com/textneckdeveloper  
+* Notion : [https://shard-atlasaurus-1a2.notion.site](https://shard-atlasaurus-1a2.notion.site/Study-4cb0d524af014abd8ffa3a90198bf223)  
+* Youtube : https://www.youtube.com/@textneckdeveloper
