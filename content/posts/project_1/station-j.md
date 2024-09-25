@@ -4,4 +4,4 @@ date: 2024-09-25
 description: Setup table of content in Hugo blog awesome theme
 ---
 
-![Station - J](/content/posts/project_1/station-j.png)
+![Station - J](/images/station-j.png)
