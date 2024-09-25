@@ -27,7 +27,7 @@ Skills :
 * Tools : Eclipse, STS, Visual Studio Code, HeidiSQL, Postman, Github, Git, SourceTree
 
 Contact Me :
-* Phone : 010-9061-8784
+* Phone : 010 - 9061 - 8784
 * Email : [textneckdeveloper@gmail.com](mailto:textneckdeveloper@gmail.com)
 * Github : https://github.com/textneckdeveloper  
 * Notion : [https://shard-atlasaurus-1a2.notion.site](https://shard-atlasaurus-1a2.notion.site/Study-4cb0d524af014abd8ffa3a90198bf223)  
