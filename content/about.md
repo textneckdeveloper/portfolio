@@ -28,7 +28,7 @@ Skills :
 
 Contact Me :
 * Phone : 010 - 9061 - 8784
-* Email : [LNIK](mailto:textneckdeveloper@gmail.com)
+* Email : [LINK](mailto:textneckdeveloper@gmail.com)
 * Github : [LINK](https://github.com/textneckdeveloper)  
 * Notion : [LINK](https://shard-atlasaurus-1a2.notion.site/Study-4cb0d524af014abd8ffa3a90198bf223)  
 * Youtube : [LINK](https://www.youtube.com/@textneckdeveloper)
