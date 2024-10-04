@@ -1,6 +1,6 @@
 ---
 title: 'Arduino : Created a Radio Controlled Car'
-date: 2022-12-15
+date: 2022-12-05
 description: Setup table of content in Hugo blog awesome theme
 ---
 
@@ -8,7 +8,7 @@ description: Setup table of content in Hugo blog awesome theme
 
 캡스톤 디자인 사물 인터넷 프로젝트로 아두이노를 이용한 무선 조종 자동차를 제작했습니다.
 
-* 개발 기간 : 2022.11.25 ~ 2022.12.15
+* 개발 기간 : 2022.11.25 ~ 2022.12.05
 
 * 개발 인원 : 4명
 
