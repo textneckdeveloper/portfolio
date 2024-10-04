@@ -30,8 +30,10 @@ description: Setup table of content in Hugo blog awesome theme
     4. Servo Motor 1개  
     5. 초음파 센서 1개
     6. 외부 전원 2개
-    7. 바퀴 4개
-    8. 아두이노 우노
+    7. HC-06 블루투스 모듈
+    8. 바퀴 4개
+    9. 아두이노 우노
+    10. 배터리
 
 ## Arduino Code
 
