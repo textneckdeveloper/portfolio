@@ -25,15 +25,14 @@ description: Setup table of content in Hugo blog awesome theme
 * 재료
 
     1. L293D Motor Shield
-    2. Chassis
+    2. Chassis, Tire
     3. DC Motor 2개
     4. Servo Motor 1개  
     5. 초음파 센서 1개
     6. 외부 전원 2개
     7. HC-06 블루투스 모듈
-    8. 바퀴 4개
-    9. 아두이노 우노
-    10. 배터리
+    8. 아두이노 우노
+    9. 배터리
 
 ## Arduino Code
 
