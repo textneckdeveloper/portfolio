@@ -12,20 +12,20 @@ description: Setup table of content in Hugo blog awesome theme
 
 Github Project : https://github.com/textneckdeveloper/Station-J
 
-개발 기간 : 2024.04.01 ~ 2024.05.08
+* 개발 기간 : 2024.04.01 ~ 2024.05.08
 
-개발 인원 : 4명
+* 개발 인원 : 4명
 
-담당 역할 : Restful API를 기반으로 CRUD 구현, JPA를 이용한 페이징과 검색 기능 구현
+* 담당 역할 : Restful API를 기반으로 CRUD 구현, JPA를 이용한 페이징과 검색 기능 구현
 
-언어 : Java (JDK 17.0.9), HTML/CSS, JavaScript
+* 언어 : Java (JDK 17.0.9), HTML/CSS, JavaScript
 
-서버 : Apache Tomcat 9.0
+* 서버 : Apache Tomcat 9.0
 
-프레임워크 : Spring Boot 3.2.4
+* 프레임워크 : Spring Boot 3.2.4
 
-DB : PostgreSQL
+* DB : PostgreSQL
 
-IDE : Spring Tool Suite 4.21.1, Postman, HeidiSQL, Visual Studio Code
+* IDE : Spring Tool Suite 4.21.1, Postman, HeidiSQL, Visual Studio Code
 
-API, 라이브러리 : Restful API (JSON), JPA, React
+* API, 라이브러리 : Restful API (JSON), JPA, React
